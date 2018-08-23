@@ -1,0 +1,34 @@
+{
+    "name": "balrok/yii2-enhanced-gii-dependencies",
+    "description": "Dependencies for yii2-enhanced-gii generated code",
+    "keywords": ["relation", "gii", "yii2", "yii", "enhanced"],
+    "license": "BSD-3-Clause",
+    "type": "yii2-extension",
+    "authors": [
+        {
+            "name": "Yohanes Candrajaya",
+            "email": "moo.tensai@gmail.com"
+        },
+        {
+            "name": "Jiwantoro Ndaru",
+            "email": "jiwanndaru@gmail.com"
+        },
+        {
+            "name": "Carl Mai",
+            "email": "carl.schoenbach@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "mootensai/yii2-uuid-behavior": "*",
+        "mootensai/yii2-relation-trait": "*",
+        "mootensai/yii2-jsblock": "*",
+        "mootensai/yii2-optimistic-lock-validator": "*",
+        "kartik-v/yii2-builder": "*",
+        "kartik-v/yii2-grid": "*",
+        "kartik-v/yii2-widgets": "*",
+        "kartik-v/yii2-export": "*",
+        "kartik-v/yii2-tabs-x": "*",
+        "kartik-v/yii2-datecontrol": "1.9.6"
+    }
+}
